@@ -1,0 +1,29 @@
+_repo: Meg-of-Mystery-Mountain_42014
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42014-h/images/cover.jpg
+creator:
+  author:
+    agent_name: North, Grace May
+    birthdate: 1876
+    gutenberg_agent_id: '41476'
+    url: http://www.gutenberg.org/2009/agents/41476
+    wikipedia: http://www.gutenberg.org/browse/authors/n#a41818
+description: ''
+gutenberg_issued: '2013-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Teenagers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Rocky Mountains -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+title: Meg of Mystery Mountain
+url: http://www.gutenberg.org/ebooks/42014
